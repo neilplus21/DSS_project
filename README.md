@@ -117,5 +117,5 @@ This project is for educational and research purposes. Use responsibly.
 ---
 
 ## 🙌 Author
-Developed with 💡 by Neil Mammen Prakash
+Developed by Neil Mammen Prakash
 
