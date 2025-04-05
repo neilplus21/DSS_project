@@ -1,6 +1,6 @@
-# 🔐 TrustSign DSS - Digital Signature Authentication
+# 🔐 DSS - Digital Signature Standard Project (TrustSign)
 
-TrustSign DSS is a secure messaging application that uses the **Digital Signature Standard (DSS)** for authenticating messages between a client and a server. It ensures message integrity and authenticity through public-key cryptography.
+TrustSign is a secure messaging application that uses the **Digital Signature Standard (DSS)** for authenticating messages between a client and a server. It ensures message integrity and authenticity through public-key cryptography.
 
 ## ✨ Features
 
@@ -30,14 +30,12 @@ TrustSign DSS is a secure messaging application that uses the **Digital Signatur
 ## 📁 Project Structure
 
 ```
-TrustSign-DSS/
+TrustSign/
 │
-├── dss_keys/
-│   ├── dsa_client_private_key.pem
-│   ├── dsa_client_public_key.pem
-│   ├── dsa_server_private_key.pem
-│   └── dsa_server_public_key.pem
-│
+├── dsa_client_private_key.pem
+├── dsa_client_public_key.pem
+├── dsa_server_private_key.pem
+├── dsa_server_public_key.pem
 ├── client.py
 ├── server.py
 ├── generate_keys.py
